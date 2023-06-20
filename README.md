@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarquestSci
 - 👀 We are interested in providing value to our end users
-- 🌱 We are interested in furthe developing our MARVIS AI Platform
+- 🌱 We are interested in further developing our MARVIS AI Platform
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach us --> [sales@marquestscientific.com]
 
